@@ -21,7 +21,7 @@ conda install -c conda-forge shap
 
 ## Project Motivation <a name="motivation"></a>
 
-For this Project I was interested in using Shapley values to interprete the results of a Gradient Boosting Classifier. Real data from passengers aboard the Titanic will be analyzed with the purpose to find answers to the following questions:
+For this Project I was interested in using Shapley values to interprete the results of a Gradient Boosting Classifier. Real data from passengers aboard the Titanic will be analyzed with the purpose of finding answers to the following questions:
 - Which individual characteristics are most associated with surviving/not surviving?
 - How do these explanatory features relate to surviving/not surviving?
 - Are there any interactions between the explanatory features, and if so, what do they look like?
