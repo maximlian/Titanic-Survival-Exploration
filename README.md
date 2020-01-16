@@ -28,8 +28,8 @@ For this Project I was interested in using Shapley values to interprete the resu
 
 ## File Descriptions <a name="files"></a>
 
-- *Titanic.ipynb* - Jupyter Notebook containing all the code work - Dataset Understanding, Data Preparation, Data Modelling, Results - along with comments and interpretations. 
-- *Titanic.csv* - Dataset used for analysis
+- *titanic.ipynb* - Jupyter Notebook containing all the code work - Dataset Understanding, Data Preparation, Data Modelling, Results - along with comments and interpretations. 
+- *titanic.csv* - Dataset used for analysis
 
 
 ## Results <a name="results"></a>
