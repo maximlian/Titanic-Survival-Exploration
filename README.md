@@ -34,7 +34,7 @@ For this Project I was interested in using Shapley values to interprete the resu
 
 ## Results <a name="results"></a>
 
-Findings can be found in the *Titanic.ipynb* Notebook or this [Blogpost]()
+Findings can be found in the *Titanic.ipynb* Notebook or this [Blogpost](https://medium.com/@maximlian/titanic-survival-exploration-a75742129d44)
 
 ## References  <a name="references"></a>
 - [Titanic Dataset](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html)
